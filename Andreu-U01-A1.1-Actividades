@@ -14,3 +14,7 @@ El meu ordiandor té 16gb RAM DDR3 UN i5 4th gen. y 1 tb.
 Per lo tant el meu equip es capac de emular aquest sistema operatiu.
 
 La meua MV de Windows Server té intal.lat 50GB de espai, 7,5 GB de RAM i 2 núcles del CPU
+
+Presionem la tecla Win + R i ens ix un pop up
+Ahí posem "powershell" i li donem a enter.
+S'obirará el powershell.
