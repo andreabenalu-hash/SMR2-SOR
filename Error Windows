@@ -1,5 +1,6 @@
 Me sale el siguiente error al inicar windows en el PC de clase :
-´´´
+
 error: fichero <</EFI/Microsoft/Boot/bootmgtw.efi>> no encontrado.
 
-´´
+Intennto reparar el archivo con un USB flash de WIndows 10, y no me deja, no he encontrado solución.
+
