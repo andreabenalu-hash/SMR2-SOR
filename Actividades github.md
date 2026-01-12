@@ -1,4 +1,4 @@
 ![Balena etcher](Balena-etcher.png)
-![Admin](HARDWARE.pdf)
+![Adminmode](HARDWARE.pdf)
 ![WSL](WSL)
 ![Dockerdesktop](Docker-desktop.png)
