@@ -1,4 +1,5 @@
-# SERVICIO LDAP
+<h1>SERVICIO LDAP</h1>
+
 Seguiremos estos pasos para instalar OpenLDAP en un servidor Linux:
 - Instalamos un servidor Linux dentro de nuestra maquinas y ponemos el siguiente comando para instalarlo:
 
@@ -62,7 +63,7 @@ Seguiremos estos pasos para instalar OpenLDAP en un servidor Linux:
 <img width="596" height="299" alt="image" src="https://github.com/user-attachments/assets/d01eab52-156a-4202-8d54-af5fac93b68b" />
 
 No me deja hacerlo otra vez.
-## INSTALACION DE PHPLDAPADMIN (TAMBIEN EN FORMA GRAFICA)
+<h1>INSTALACION DE PHPLDAPADMINporcomandos y en gráfico</h1>
 - Usamos este comando para instalarlo:
 
 <img width="514" height="120" alt="image" src="https://github.com/user-attachments/assets/59593fae-63d8-4a02-8023-d1f6deb8ed38" />
@@ -83,7 +84,7 @@ No me deja hacerlo otra vez.
 - Y se nos añadiria dentro de la lista de usuarios
 
 
-## INSTALACION Y CONFIGURACION DE LOS USUARIOS
+<h1>INSTALACION Y CONFIGURACION DE LOS USUARIOS</h1>
 - Entramos a nuestro cliente de Ubuntu y instalamos lo siguiente con este comando: sudo apt install libpam-ldap libnss-ldap nss-updatedb libnss-db nscd ldap-utils
 <img width="803" height="215" alt="image" src="https://github.com/user-attachments/assets/6214a22f-4b0f-4200-8ca3-aa0a660f1158" />
 
